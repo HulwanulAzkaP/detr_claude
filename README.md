@@ -60,7 +60,9 @@ python main.py --mode eval --model_path path/to/model.pth
 ```
 
 ### Inference
-
+```
+Still Error
+```
 To run inference on the test set:
 ```bash
 python main.py --mode inference --model_path path/to/model.pth
